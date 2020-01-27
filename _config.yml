@@ -1,17 +1,17 @@
 # Site settings
-title_left    : "Think"
-title_right   : "space" # default: ""
-description   : "Minimalist Jekyll theme for technical writing blog."
-keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url           : https://heiswayi.github.io/thinkspace # site url
+title_left    : "Saurav"
+title_right   : "Khdoolia" # default: ""
+description   : "Writing the things I learn"
+keywords      : "Go, front-end, back-end, web-dev blog, web, minimalist"
+url           : https://sauravkhdoolia.tech/thinkspace # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
-twitter_username  : ""
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
+twitter_username  : "sauravkhdoolia"
+comments_enabled  : "sauravkhdoolia" # if enabled (set to true), please provide your disqus_username
 disqus_shortname  : ""
-postshare_enabled : false
+postshare_enabled : true
 
 # Build settings
 permalink   : /:year/:title/
@@ -28,7 +28,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Saurav Khdoolia"
 
 plugins:
   - jekyll-sitemap
