@@ -9,7 +9,8 @@ cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
 twitter_username  : "sauravkhdoolia"
-comments_enabled  : "sauravkhdoolia" # if enabled (set to true), please provide your disqus_username
+comments_enabled  : true # if enabled (set to true), please provide your disqus_username
+discus_username: "sauravkhdoolia"
 disqus_shortname  : ""
 postshare_enabled : true
 
